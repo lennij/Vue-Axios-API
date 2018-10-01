@@ -1,0 +1,1 @@
+export const MOGUL_ARENA_API_ENDPOINT_URI = 'http://API-URL-EINTRAGEN';
